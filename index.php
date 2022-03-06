@@ -1,4 +1,5 @@
 <?php
+echo "hello";
 $servername='localhost';
 $username='admin';
 $password='raspberry';
