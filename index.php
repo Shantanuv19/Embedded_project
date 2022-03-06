@@ -1,6 +1,6 @@
 <?php
 echo "hello";
-$servername='localhost';
+$servername='192.168.137.62';
 $username='admin';
 $password='raspberry';
 $dbname = "sensor_data";
