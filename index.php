@@ -1,8 +1,8 @@
 <?php
-$servername='localhost';
-$username='id17796278_shantanu';
-$password='Ab@123456789';
-$dbname = "id17796278_data";
+$servername='0.0.0.0';
+$username='Admin';
+$password='raspberry';
+$dbname = "sensor_data";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
