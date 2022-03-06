@@ -1,5 +1,5 @@
 <?php
-$servername='192.168.137.62';
+$servername='localhost';
 $username='admin';
 $password='raspberry';
 $dbname = "sensor_data";
