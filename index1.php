@@ -10,8 +10,11 @@ $conn = new mysqli($servername, $username, $password, $dbname);
 if ($conn->connect_error) {
   die("Connection failed: " . $conn->connect_error);
 }
+else
+{
+echo "connected";
 
-$sql = "SELECT id, name, branch, reg FROM MyGuests";
+$sql = "SELECT id, name, branch, reg FROM g8S5n3brih";
 $result = $conn->query($sql);
 
 if ($result->num_rows > 0) {
