@@ -1,7 +1,7 @@
 <?php
 $servername = "10.36.252.76";
 $username = "rootnew";
-$password = "123456789";
+$password = "";
 //$dbname = "g8S5n3brih";
 
 // Create connection
