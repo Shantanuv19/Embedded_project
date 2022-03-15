@@ -1,8 +1,8 @@
 
 <?php
-$servername = "a65c-223-231-233-68.ngrok.io";
-$username = "rootnew";
-$password = "12345";
+$servername = "https://a158-223-231-233-68.ngrok.io";
+$username = "rfidattendance";
+$password = "root";
 
 
 // Create connection
