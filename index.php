@@ -1,8 +1,8 @@
 
 <?php
-$servername = "http://10.36.252.76/";
+$servername = "http://a65c-223-231-233-68.ngrok.io";
 $username = "rootnew";
-$password = "00000";
+$password = "12345";
 $dbname = "test";
 
 // Create connection
