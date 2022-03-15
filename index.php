@@ -1,12 +1,13 @@
 
 <?php
 $servername = "https://a158-223-231-233-68.ngrok.io";
-$username = "rfidattendance";
+$username = "root";
 $password = "root";
+$dbname = "rfidattendance";
 
 
 // Create connection
-$conn = new mysqli($servername, $username, $password);
+$conn = new mysqli($servername, $username, $password, $dbname);
 
 // Check connection
 if ($conn->connect_error) {
