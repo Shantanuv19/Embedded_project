@@ -1,6 +1,6 @@
 
 <?php
-$servername = "https://a158-223-231-233-68.ngrok.io";
+$servername = "a158-223-231-233-68.ngrok.io";
 $username = "root";
 $password = "root";
 $dbname = "rfidattendance";
