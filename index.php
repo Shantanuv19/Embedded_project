@@ -3,7 +3,7 @@
 $servername = "http://a65c-223-231-233-68.ngrok.io";
 $username = "rootnew";
 $password = "12345";
-$dbname = "test";
+$dbname = "database";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
