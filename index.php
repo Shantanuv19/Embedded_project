@@ -1,5 +1,5 @@
 <?php
-$servername='f7e8-2409-4062-2d80-aa8f-25cb-c73c-1b06-761a.ngrok.io';
+$servername='http://f7e8-2409-4062-2d80-aa8f-25cb-c73c-1b06-761a.ngrok.io/';
 $username='root';
 $password='';
 $dbname = 'test';
